@@ -1,6 +1,10 @@
+
 👋Oi sou @juliacampanario
-👀 Estou interessado em desenvolvimento de softwares.
-🌱 Atualmente estou aprendendo desenvolvimento front-end da web.
+
+👀 Estou interessado em desenvolvimento de softwares
+
+🌱 Atualmente estou aprendendo desenvolvimento front-end da web
+
 📫 Como me encontrar: campanariojulia@gmail.com
 
 <!---
